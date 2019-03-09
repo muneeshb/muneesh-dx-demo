@@ -1,4 +1,7 @@
 <aura:component>
     <h1>Hello Word Muneesh Code</h1>
     <h2>Updated in SFDC Org Dev Console</h2>
+    <strong>Testing Gut in SFDC DX using VSc Editor</strong>
+    <h2>Added to when we tried committing the code using vsc to guthub</h2>
+    <h2>Added to test commiting the code using VS Code terminal</h2>
 </aura:component>
