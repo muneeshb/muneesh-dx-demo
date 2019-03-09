@@ -1,0 +1,242 @@
+[
+    [
+        "C:\\Muneesh\\Lightning\\Muneesh-SFDXHub-One\\force-app",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Muneesh\\Lightning\\Muneesh-SFDXHub-One\\force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1552152526442,
+            "changeTime": 1552152526442,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Muneesh\\Lightning\\Muneesh-SFDXHub-One\\force-app\\main",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Muneesh\\Lightning\\Muneesh-SFDXHub-One\\force-app\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1552152526442,
+            "changeTime": 1552152526442,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Muneesh\\Lightning\\Muneesh-SFDXHub-One\\force-app\\main\\default",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Muneesh\\Lightning\\Muneesh-SFDXHub-One\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1552152526444,
+            "changeTime": 1552152526444,
+            "contentHash": "7334b1e8716ee057f8863fce77d3933d5bd9d984",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Muneesh\\Lightning\\Muneesh-SFDXHub-One\\force-app\\main\\default\\aura",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Muneesh\\Lightning\\Muneesh-SFDXHub-One\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1552156045914,
+            "changeTime": 1552156045914,
+            "contentHash": "98d3432e6d8efaa527b6ca2a54bd27e08dfe7a47",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Muneesh\\Lightning\\Muneesh-SFDXHub-One\\force-app\\main\\default\\aura\\myFirstComponent",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Muneesh\\Lightning\\Muneesh-SFDXHub-One\\force-app\\main\\default\\aura\\myFirstComponent",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1552156045941,
+            "changeTime": 1552156045941,
+            "contentHash": "dbaaee35049c001527ef8c77dc1f3ce7586126c4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Muneesh\\Lightning\\Muneesh-SFDXHub-One\\force-app\\main\\default\\aura\\myFirstComponent\\myFirstComponent.auradoc",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Muneesh\\Lightning\\Muneesh-SFDXHub-One\\force-app\\main\\default\\aura\\myFirstComponent\\myFirstComponent.auradoc",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 209,
+            "modifiedTime": 1552156045938,
+            "changeTime": 1552156045938,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Muneesh\\Lightning\\Muneesh-SFDXHub-One\\force-app\\main\\default\\aura\\myFirstComponent\\myFirstComponent.cmp",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Muneesh\\Lightning\\Muneesh-SFDXHub-One\\force-app\\main\\default\\aura\\myFirstComponent\\myFirstComponent.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 73,
+            "modifiedTime": 1552156131569,
+            "changeTime": 1552156131569,
+            "contentHash": "a0c9dd3fbf30510ae8b4b0ccb9265d4024bbd601",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Muneesh\\Lightning\\Muneesh-SFDXHub-One\\force-app\\main\\default\\aura\\myFirstComponent\\myFirstComponent.cmp-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Muneesh\\Lightning\\Muneesh-SFDXHub-One\\force-app\\main\\default\\aura\\myFirstComponent\\myFirstComponent.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 248,
+            "modifiedTime": 1552156045919,
+            "changeTime": 1552156045919,
+            "contentHash": "ba8d84351184c2cef046c5e9189bb9c308e6be21",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Muneesh\\Lightning\\Muneesh-SFDXHub-One\\force-app\\main\\default\\aura\\myFirstComponent\\myFirstComponent.css",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Muneesh\\Lightning\\Muneesh-SFDXHub-One\\force-app\\main\\default\\aura\\myFirstComponent\\myFirstComponent.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 10,
+            "modifiedTime": 1552156045930,
+            "changeTime": 1552156045930,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Muneesh\\Lightning\\Muneesh-SFDXHub-One\\force-app\\main\\default\\aura\\myFirstComponent\\myFirstComponent.design",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Muneesh\\Lightning\\Muneesh-SFDXHub-One\\force-app\\main\\default\\aura\\myFirstComponent\\myFirstComponent.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 40,
+            "modifiedTime": 1552156045942,
+            "changeTime": 1552156045942,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Muneesh\\Lightning\\Muneesh-SFDXHub-One\\force-app\\main\\default\\aura\\myFirstComponent\\myFirstComponent.svg",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Muneesh\\Lightning\\Muneesh-SFDXHub-One\\force-app\\main\\default\\aura\\myFirstComponent\\myFirstComponent.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 661,
+            "modifiedTime": 1552156045935,
+            "changeTime": 1552156045935,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Muneesh\\Lightning\\Muneesh-SFDXHub-One\\force-app\\main\\default\\aura\\myFirstComponent\\myFirstComponentController.js",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Muneesh\\Lightning\\Muneesh-SFDXHub-One\\force-app\\main\\default\\aura\\myFirstComponent\\myFirstComponentController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 65,
+            "modifiedTime": 1552156045923,
+            "changeTime": 1552156045923,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Muneesh\\Lightning\\Muneesh-SFDXHub-One\\force-app\\main\\default\\aura\\myFirstComponent\\myFirstComponentHelper.js",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Muneesh\\Lightning\\Muneesh-SFDXHub-One\\force-app\\main\\default\\aura\\myFirstComponent\\myFirstComponentHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 45,
+            "modifiedTime": 1552156045928,
+            "changeTime": 1552156045928,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Muneesh\\Lightning\\Muneesh-SFDXHub-One\\force-app\\main\\default\\aura\\myFirstComponent\\myFirstComponentRenderer.js",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Muneesh\\Lightning\\Muneesh-SFDXHub-One\\force-app\\main\\default\\aura\\myFirstComponent\\myFirstComponentRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 50,
+            "modifiedTime": 1552156045933,
+            "changeTime": 1552156045933,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Muneesh\\Lightning\\Muneesh-SFDXHub-One\\force-app\\main\\default\\lwc",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Muneesh\\Lightning\\Muneesh-SFDXHub-One\\force-app\\main\\default\\lwc",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1552152580952,
+            "changeTime": 1552152580952,
+            "contentHash": "a973ac1b5be0e216b2a2db1b82ae5ba97f4086f4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Muneesh\\Lightning\\Muneesh-SFDXHub-One",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Muneesh\\Lightning\\Muneesh-SFDXHub-One",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1552152556973,
+            "changeTime": 1552152556973,
+            "contentHash": "829e604d4e7d5aae25f04d899b0bc5eccc598817",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
